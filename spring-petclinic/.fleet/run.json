@@ -1,0 +1,12 @@
+{
+    "configurations": [
+        {
+            "type": "command",
+            "name": "",
+            "environment": , // optional
+            "program": "",
+            "args": [], // optional
+            "pty": , // optional
+        }
+    ]
+}
